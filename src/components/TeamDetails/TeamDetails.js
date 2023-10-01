@@ -58,7 +58,7 @@ const TeamDetails = () => {
                             <tr key={ele.id}>
                                 <td>
                                     <small>{ele.id}</small>
-                                    <img src={ele.avatar} />
+                                    <img src={ele.avatar} alt='logo' />
                                 </td>
                                 <td>{ele.first_name}</td>
                                 <td>{ele.last_name}</td>
