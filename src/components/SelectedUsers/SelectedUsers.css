@@ -1,0 +1,9 @@
+.selected-main {
+  margin-top: 3rem;
+}
+
+.selected-content {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
